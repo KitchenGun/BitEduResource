@@ -1,0 +1,6 @@
+C:\Users\강건\Downloads\Bit\WinForm\01_sample\14_메뉴_툴바_상태바\05_ContextMenuStripExam\ContextMenuStripExam\bin\Debug\ContextMenuStripExam.exe
+C:\Users\강건\Downloads\Bit\WinForm\01_sample\14_메뉴_툴바_상태바\05_ContextMenuStripExam\ContextMenuStripExam\bin\Debug\ContextMenuStripExam.pdb
+C:\Users\강건\Downloads\Bit\WinForm\01_sample\14_메뉴_툴바_상태바\05_ContextMenuStripExam\ContextMenuStripExam\obj\Debug\ContextMenuStripExam.csprojAssemblyReference.cache
+C:\Users\강건\Downloads\Bit\WinForm\01_sample\14_메뉴_툴바_상태바\05_ContextMenuStripExam\ContextMenuStripExam\obj\Debug\ContextMenuStripExam.csproj.CoreCompileInputs.cache
+C:\Users\강건\Downloads\Bit\WinForm\01_sample\14_메뉴_툴바_상태바\05_ContextMenuStripExam\ContextMenuStripExam\obj\Debug\ContextMenuStripExam.exe
+C:\Users\강건\Downloads\Bit\WinForm\01_sample\14_메뉴_툴바_상태바\05_ContextMenuStripExam\ContextMenuStripExam\obj\Debug\ContextMenuStripExam.pdb
